@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("CI is working!");
+        System.out.println("This is only test!");
     }
 }
